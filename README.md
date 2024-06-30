@@ -1,5 +1,5 @@
 # Sedonia Capes Installer 
-![Sedonia Capes Installer UI](image (5).png)
+![Sedonia Capes Installer UI](image.png)
 Welcome to the official repository for the Sedonia Capes Installer. We have made this project open-source to ensure transparency and to build trust within our community. Please feel free to review the code and contribute to the project.
 
 ## Table of Contents
