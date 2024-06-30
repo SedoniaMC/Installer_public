@@ -28,19 +28,19 @@ The Sedonia Capes Installer allows users to easily manage and install capes for 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/username/sedonia-capes-installer.git
+   git clone https://github.com/SedoniaMC/Installer_public.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd sedonia-capes-installer
+   cd Installer_public
    ```
 3. **Install the required dependencies:**
    ```sh
-   pip install -r requirements.txt
+   pip install (see in main.py) (lazy to do a requirements.txt)
    ```
 4. **Run the installer:**
    ```sh
-   python installer.py
+   python main.py
    ```
 
 ## Usage
